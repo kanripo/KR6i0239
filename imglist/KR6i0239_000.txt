@@ -1,0 +1,4 @@
+001-0454b00	TKD 20-1062b	buddhist/K-koreana/20-tif/1000-1099/20_1062_B.TIF
+000-0163a22	TKD 20-1062c	buddhist/K-koreana/20-tif/1000-1099/20_1062_C.TIF
+000-0163b12	TKD 20-1063a	buddhist/K-koreana/20-tif/1000-1099/20_1063_A.TIF
+000-0163c02	TKD 20-1063b	buddhist/K-koreana/20-tif/1000-1099/20_1063_B.TIF
